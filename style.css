@@ -8,6 +8,11 @@ h1 {
     border: 35px dotted #f4be90;
     padding: 30px;
     margin: 40px;
+    color: rgb(78,59,60);
+}
+
+div{
+    color: rgb(78,59,60);
 }
 
 .summary{
