@@ -9,10 +9,12 @@ h1 {
     padding: 30px;
     margin: 40px;
     color: rgb(78,59,60);
+    font-family: 'Ultra', serif;
 }
 
 div{
     color: rgb(78,59,60);
+    font-family: 'ZCOOL XiaoWei', serif;
 }
 
 .summary{
@@ -24,4 +26,8 @@ div{
 
 .request{
     padding: 30px 20px 15px;
+}
+
+.red{
+    color: rgb(220,105,25);
 }
