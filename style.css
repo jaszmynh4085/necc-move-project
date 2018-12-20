@@ -26,6 +26,9 @@ div{
 
 .request{
     padding: 30px 20px 15px;
+    position: absolute;
+    left: 125px;
+    text-align: center;
 }
 
 .red{
